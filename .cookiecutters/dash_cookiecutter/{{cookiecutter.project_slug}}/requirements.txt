@@ -1,0 +1,2 @@
+dash~={{cookiecutter.dash_version}}
+dash-cli

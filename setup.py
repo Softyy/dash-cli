@@ -25,8 +25,8 @@ setup(
     author_email='chris@cjadkins.com',
     license='MIT',
     description='A cli for creating and working on dash apps',
-    url='TBD',
-    download_url='TBD',
+    url='https://github.com/Softyy/dash-cli',
+    download_url='https://github.com/Softyy/dash-cli/tags',
     platforms='any',
     long_description=long_description,
     long_description_content_type='text/markdown'

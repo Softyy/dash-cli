@@ -1,3 +1,4 @@
+language: python
 deploy:
   provider: pypi
   edge: true # opt in to dpl v2

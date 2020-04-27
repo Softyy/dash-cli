@@ -8,7 +8,7 @@ from cookiecutter.main import cookiecutter
 DASH_COMPONENT_BOILERPLATE_URL = "https://github.com/plotly/dash-component-boilerplate.git"
 
 TEMPLATES = {
-    'hello-dash': 'C:/Users/adkin/Code Projects/dash-cli/.cookiecutters/dash_cookiecutter/',
+    'hello-dash': 'https://github.com/Softyy/dash-cli.git',
     'sql-extractor': 'TBD'
 }
 

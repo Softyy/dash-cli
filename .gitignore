@@ -7,3 +7,8 @@ venv
 env
 
 *.egg-info
+
+/dist
+/build
+
+hints.md

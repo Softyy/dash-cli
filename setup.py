@@ -9,9 +9,9 @@ with open(path.join(this_directory, 'entrypoint.txt'), encoding='utf-8') as f:
     entry_points = f.read()
 
 setup(
-    name='dash-cli',
+    name='dash-plotly-cli',
     version='0.1',
-    py_modules=['dash-cli'],
+    py_modules=['dash-plotly-cli'],
     keywords=['dash', 'plotly', 'cli', ],
     packages=find_packages(),
     install_requires=[
